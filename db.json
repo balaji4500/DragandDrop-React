@@ -1,0 +1,55 @@
+
+{
+  "posts": [
+    {
+      "name": "Joe Linux",
+      "role": "technology head",
+      "id": 1
+    },
+    {
+      "name": "Mark Hill",
+      "role": " executive officer",
+      "id": 2
+    },
+    {
+      "name": "Linda May",
+      "role": " bussiness officer",
+      "id": 3
+    },
+    {
+      "name": "Jhon Green",
+      "role": "acc officer",
+      "id": 4
+    },
+    {
+      "name": "Ron Blomquist",
+      "role": "technology",
+      "id": 5
+    },
+    {
+      "name": "Micheal Rubin",
+      "role": "technology",
+      "id": 6
+    },
+    {
+      "name": "Alica Lopez",
+      "role": "bussiness",
+      "id": 7
+    },
+    {
+      "name": "Mary Jhonson",
+      "role": "bussiness",
+      "id": 8
+    },
+    {
+      "name": "Kirk Douglas",
+      "role": "bussiness",
+      "id": 9
+    },
+    {
+      "name": "Erica Reel",
+      "role": "accounting",
+      "id": 10
+    }
+  ]
+}

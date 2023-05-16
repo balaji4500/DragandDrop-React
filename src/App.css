@@ -1,0 +1,52 @@
+#app{
+  background-color: rgb(226, 226, 231);
+}
+#aa{
+  background-color: rgb(25, 72, 161);
+}
+
+
+#search{
+  padding-top: 20vh;
+width: 40%;
+display: flex;
+margin-left: 10px;
+flex-direction: column;
+align-items: center;
+min-width: 200px;
+}
+#inputwrapper{
+  background-color: white;
+  width: 100%;
+  border-radius: 10px;
+  height: 2.5rem;
+  padding: 0 15px;
+  box-shadow: 2px 2px 2px 2px #22222222 ;
+  display: flex;
+  align-items: center;
+}
+#input{
+  background-color: transparent;
+  border: none;
+  height: 100%;
+  width: 100%;
+  height: 1.25rem;
+  
+}
+#input:focus{
+  outline: none;
+}
+#searchbox{
+  width: 100%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0px 0px 8px #ddd;
+  border-radius: 10px;
+  margin-top: 1rem;
+  max-height: 300px;
+  overflow-y: scroll;
+}
+#searchbox:hover{
+  box-shadow: 2px 2px 2px 2px #0000;
+}
